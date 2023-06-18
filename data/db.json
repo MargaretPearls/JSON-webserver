@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "It can only get better by the day",
+      "body": "This is first ever good food page and walk in store you can ever come across, we have different variety of foods and we are here to serve you better",
+      "likes": 15
+    },
+    {
+      "id": 3,
+      "title": "I'm the attendant that is incharge of making you okay",
+      "body": "This is first ever good food page and walk in store you can ever come across, we have different variety of foods and we are here to serve you better",
+      "likes": 20
+    },
+    {
+      "id": 4,
+      "title": "I'm the attendant that is incharge of making you okay",
+      "body": "This is first ever good food page and walk in store you can ever come across, we have different variety of foods and we are here to serve you better",
+      "likes": 20
+    },
+    {
+      "title": "Takdjke",
+      "body": "Kidiknfmnmuhjwkiq;",
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "title": "Table of content",
+      "body": "GOGSFWVBZ",
+      "likes": 0,
+      "id": 7
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer food or drinks",
+      "answerA": "Food please!",
+      "answerB": "Drinks please!"
+    }
+  ]
+}
